@@ -1,4 +1,4 @@
-🔍 Python Port Scanner
+##🔍 Python Port Scanner
 
 A simple and beginner‑friendly TCP port scanner built using Python's socket library.
 This tool scans a target IP address and detects open ports within a specified range.
